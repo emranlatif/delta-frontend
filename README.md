@@ -7,7 +7,7 @@ Follow these steps to set up and run the React frontend locally.
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/react_frontend.git
+   git clone https://github.com/emranlatif/delta-frontend.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -15,7 +15,7 @@ Follow these steps to set up and run the React frontend locally.
    ```
 3. Install dependencies:
    ```bash
-   npm install
+   npm install --legacy-peer-deps
    ```
 ## Usage
 Once the installation is complete, you can run the project using the following command:
